@@ -1,0 +1,2 @@
+dad(dom, ale).
+dad(X,Y) -> son(Y,X).
